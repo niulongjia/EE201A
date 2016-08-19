@@ -3,5 +3,5 @@
 UCLA EE201A (Fall 2015)
 ### Authors
 ======
-YUQIAN ZHANG
+YUQIAN ZHANG <br/>
 LONGJIA NIU
